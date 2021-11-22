@@ -6,3 +6,6 @@
    developed which will perform snakes and 
    ladders game winning or loosing depending 
    on the input from the user. 
+   
+## **Objectives**
+   The main objective of the project is to perform a 
