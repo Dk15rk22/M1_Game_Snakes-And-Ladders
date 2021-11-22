@@ -4,8 +4,7 @@
 # Linux OS Build
 
 # Code Quality Score
-   ![Code Quality Score]
-   (https://api.codiga.io/project/29805/score/svg)
+   ![Code Quality Score](https://api.codiga.io/project/29805/score/svg)
 
 # Code Grade
 ![Code Grade](https://api.codiga.io/project/29805/status/svg)
