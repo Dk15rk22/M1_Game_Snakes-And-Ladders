@@ -1,9 +1,11 @@
 **Requirements** 
 
 **Introduction**
+
   In this project, a version of the Snakes and Ladders game program in C is developed which will perform snakes and ladders game winning or loosing depending on the input from the user. 
    
 **About Game**
+
   The game includes the facilities such as saving and loading the game. The saved games are password protected so that only the authorized user can load the previously saved game. The snakes and ladders game project comprises of multiple functions (scroll down to view the description for each) which can be dealt at ease. Attempt has been made to present the program in user friendly environment.
   
 **Objectives**
@@ -19,7 +21,7 @@
   * Open the saved game using the password pre-defined by the user.
   * Use minimum graphics in snakes and ladders as far as possible avoiding complex codes.
 
-**Scope
+**Scope**
   * Users preferring the classical games can switch to the game.
   * Beginners in computer programming can take hints via the mini project to boost up their programming techniques.
   * Can be brought in practice in training centers that offers basic programming courses.
