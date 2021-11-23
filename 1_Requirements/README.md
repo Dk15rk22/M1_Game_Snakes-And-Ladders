@@ -119,6 +119,21 @@
   * It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
 
 # SWOT Analysis
+**Strengths:**
+  * Allows students to understand the concept of mathematics easily.
+  * It can be exposed to the operations of addition and substraction indirectly.
+  * It is also a suitable activity for leisure time.
+  * This is to promote social skills & interaction among the players.
+  
+**Weakness:**
+  * One of the weaknesses of this game is it takes much time.
+  
+**Opportunities:**
+  * To learn about the life, which is not means to be a one-sided affair. You will face both the good & bad times.
+  * Childern can understand these terms: forword, backword, before, after,next, which way.
+
+**Threats:**
+  * Advanced featured games are already in the market.
 
 # High Level Requirements
 
