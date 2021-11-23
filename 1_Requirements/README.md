@@ -23,3 +23,11 @@
   * Use minimum graphics in snakes and ladders as far as possible avoiding complex codes.
 
 # SCOPE  
+  * Users preferring the classical games can switch to the game.
+  * Beginners in computer programming can take hints via the mini project to boost up their programming techniques.
+  * Can be brought in practice in training centers that offers basic programming courses.
+  * Can be the best choice as stress relieving game in the busy life pattern of the people in present life.
+  * Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
+  * Can be milestone for the programmers trying to learn to build projects in C.
+
+
