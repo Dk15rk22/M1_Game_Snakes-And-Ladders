@@ -3,14 +3,21 @@
 # High Level Test Plan
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
 |---|---|---|---|---|---|
-| HLTP_1 | CAGR Operation | (Choice) | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_2 | Discount Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_3 | PPF Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_4 | EMI Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_5 | RD Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_6 | FD Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_7 | SIP Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
-| HLTP_8 | LumpSum Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_1 | Main Operation | (Choice) | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_2 | Save game Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_3 | Loadgame Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_4 | Tutorial Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_5 | Firstscr Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_6 | Main game Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_7 | Layout Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_8 | Drawviperandladder Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_9 | Dice Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_10 | Position Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_11 | Locate(int , int) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_12 | Draw Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_13 | Eofgame(char , int) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_12 | Password(char) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
+| HLTP_13 | Playfilesync(char) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
 
 # Low Level Test Plan
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
