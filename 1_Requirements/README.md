@@ -1,4 +1,4 @@
-**Requirements** 
+# Identifying Features
 
 **Introduction**
 
@@ -28,8 +28,6 @@
   * Can be the best choice as stress relieving game in the busy life pattern of the people in present life.
   * Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
   * Can be milestone for the programmers trying to learn to build projects in C.
-
-# Identifying Features
 
 # State of Art / Research
 
