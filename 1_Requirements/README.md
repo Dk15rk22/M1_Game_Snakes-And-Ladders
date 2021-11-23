@@ -1,27 +1,27 @@
 # Identifying Features
 
-**Introduction**
+## Introduction
 
   In this project, a version of the Snakes and Ladders game program in C is developed which will perform snakes and ladders game winning or loosing depending on the input from the user. 
    
-**About Game**
+## About Game
 
   The game includes the facilities such as saving and loading the game. The saved games are password protected so that only the authorized user can load the previously saved game. The snakes and ladders game project comprises of multiple functions (scroll down to view the description for each) which can be dealt at ease. Attempt has been made to present the program in user friendly environment.
   
-**Objectives**
+## Objectives
   * To use different user defined function, to break a program into many simplified parts to deal with and to make it easier to understand the codes too.
   * To promote the use of array in general programming for simplified version of the program.
   * To apply the file handling concepts in order to retrieve the player’s data files that contains the data of the players.
   * To use minimum graphics as far as possible to make the program execute fast but also user friendly side by side.
   * To use general concept of c language to develop a simple snakes and ladders game that as a whole entertains the user.
 
-**Features**
+## Features
   * Compatible as multi-player game.
   * Facility to save the game.
   * Open the saved game using the password pre-defined by the user.
   * Use minimum graphics in snakes and ladders as far as possible avoiding complex codes.
 
-**Scope**
+## Scope
   * Users preferring the classical games can switch to the game.
   * Beginners in computer programming can take hints via the mini project to boost up their programming techniques.
   * Can be brought in practice in training centers that offers basic programming courses.
@@ -30,7 +30,7 @@
   * Can be milestone for the programmers trying to learn to build projects in C.
 
 # State of Art / Research
-**Functions Used:**
+## Functions Used:
 
 **1. Main()**
 
@@ -40,7 +40,7 @@
 
   This part of the program is called from the main function when user wishes to save the game. The player can provide his own password to protect the game from other users. In snakes and ladders, this function calls the password function to get the password from the user. After getting the password the name of game, the name of players, and the value of the player is stored in a file named save.dat that can be reopened further.
 
-**3. Loadgame()**
+**3. Load game()**
 
   This function enables the users to load the initially saved snakes and ladders game. In order to prevent the unauthorized use of the loaded game, there is a password system that user has to go through before he opens or loads the saved game. In order to get game loaded user has to input the game name and the password per defined or per entered. Password functions is called for password input and for matching of the password and the game name data is read from the data file save.dat.
 
@@ -137,4 +137,20 @@
 
 # High Level Requirements
 
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| HLR_1 |  The user can switch to resume, new game, load game  | Implemented  |
+| HLR_2 |    The user can play tutorial  | Implemented  |
+| HLR_3 |    The user can save games   | Implemented  |
+| HLR_4 |    The user needs viper & ladders   | Implemented  |
+| HLR_5 |    The user needs drawn  viper & ladders  | Implemented  |
+| HLR_6 |    The user needs location of viper & ladders  | Implemented  |
+| HLR_7 |    The user needs unique tokens  | Implemented  |
+| HLR_8 |    The user needs layout, dice  | Implemented  |
+
 # Low Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| LLR_1 |  List of operations displayed | Implemented  |
+| LLR_2 |  Input from the user  | Implemented  |
+| LLR_3 |  Exit the game  | Implemented  |
