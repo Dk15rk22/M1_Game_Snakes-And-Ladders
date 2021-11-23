@@ -97,6 +97,26 @@
   This function is used in the program to play the sound of the game. This function enables the programmer to embed the sound in their console based program. This function takes the file name to be played. The file to be played should be inwav format.
 
 # 4W's 1-H 
+**Why:**
+  * To teach morality lesson for each and every person and which can attain salvation through doing good, whereas by doing evil one will be reborn as lower forms of life.
+  * I’m making this for students to understand the concept of mathematics easily .
+  * It can be used to play by anyone at any place for fun & entertainment purpose too.
+
+**Where:**
+  * This can be used in our daily lives to do good things & to think in possitive manner.
+  * We can use it in the mathematical calculations & problem solving skills.
+
+**Who:**
+  * It can be used by public even childern can also play this game.
+  * Can be used as a entertainment purpose for stressed out daily working people.
+
+**When:**
+  * One can play this when got stressed out and want to have fun.
+  * The project can be used when the children & people are bored with their daily works and need entertainment. 
+
+**How:**
+  * By playing diligently one can find their desired output as winning the game.
+  * It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
 
 # SWOT Analysis
 
