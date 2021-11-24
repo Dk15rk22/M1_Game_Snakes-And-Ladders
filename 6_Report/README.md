@@ -1,6 +1,6 @@
 # REQUIREMENTS
 
-## Identifying Features
+# Identifying Features
 
 ## Introduction
 
@@ -31,7 +31,7 @@
   * Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
   * Can be milestone for the programmers trying to learn to build projects in C.
 
-## State of Art / Research
+# State of Art / Research
 ## Functions Used:
 
 **1. Main()**
@@ -98,7 +98,7 @@
 
   This function is used in the program to play the sound of the game. This function enables the programmer to embed the sound in their console based program. This function takes the file name to be played. The file to be played should be inwav format.
 
-## 4W's 1-H 
+# 4W's 1-H 
 **Why:**
   * To teach morality lesson for each and every person and which can attain salvation through doing good, whereas by doing evil one will be reborn as lower forms of life.
   * I’m making this for students to understand the concept of mathematics easily .
@@ -120,7 +120,7 @@
   * By playing diligently one can find their desired output as winning the game.
   * It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
 
-## SWOT Analysis
+# SWOT Analysis
 **Strengths:**
   * Allows students to understand the concept of mathematics easily.
   * It can be exposed to the operations of addition and substraction indirectly.
@@ -137,7 +137,7 @@
 **Threats:**
   * Advanced featured games are already in the market.
 
-## High Level Requirements
+# High Level Requirements
 
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
@@ -150,7 +150,7 @@
 | HLR_7 |    The user needs unique tokens  | Implemented  |
 | HLR_8 |    The user needs layout, dice  | Implemented  |
 
-## Low Level Requirements
+# Low Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
 | LLR_1 |  List of operations displayed | Implemented  |
