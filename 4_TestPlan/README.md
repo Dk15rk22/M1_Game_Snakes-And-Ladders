@@ -24,6 +24,6 @@
 |---|---|---|---|---|---|
 | LLTP_1 | Player_1 Calculation | 1 | Dice 1-6 | Dice 1-6 | Requirement Based |
 | LLTP_2 | Player_2 Calculation | 2 | Dice 1-6 | Dice 1-6 | Requirement Based |
-| LLTP_6 | Eofgame Calculation | 3 | Exits the game | Exits the game | Requirement Based |
-| LLTP_7 | Invalid Entries | 4 | Incorrect choice.Try Again | Incorrect choice.Try Again | Requirement Based |
-| LLTP_8 | Invalid Entries | 9 | Incorrect choice.Try Again | Incorrect choice.Try Again | Requirement Based |
+| LLTP_3 | Eofgame Calculation | 3 | Exits the game | Exits the game | Requirement Based |
+| LLTP_4 | Invalid Entries | 4 | Incorrect choice.Try Again | Incorrect choice.Try Again | Requirement Based |
+| LLTP_5 | Invalid Entries | 9 | Incorrect choice.Try Again | Incorrect choice.Try Again | Requirement Based |
