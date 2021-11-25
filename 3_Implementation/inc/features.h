@@ -16,7 +16,7 @@ int main();
 int save_game();
 int load_game();
 int tutorial();
-int firstscr()
+int firstscr();
 int main_game();
 int layout();
 int drawviperandladder()
