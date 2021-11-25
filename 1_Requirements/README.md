@@ -7,25 +7,25 @@
   The game includes the facilities such as saving and loading the game. The saved games are password protected so that only the authorized user can load the previously saved game. The snakes and ladders game project comprises of multiple functions (scroll down to view the description for each) which can be dealt at ease. Attempt has been made to present the program in user friendly environment.
   
 ## Objectives
-* To use different user defined function, to break a program into many simplified parts to deal with and to make it easier to understand the codes too.
-* To promote the use of array in general programming for simplified version of the program.
-* To apply the file handling concepts in order to retrieve the player’s data files that contains the data of the players.
-* To use minimum graphics as far as possible to make the program execute fast but also user friendly side by side.
-* To use general concept of c language to develop a simple snakes and ladders game that as a whole entertains the user.
+  1. To use different user defined function, to break a program into many simplified parts to deal with and to make it easier to understand the codes too.
+  2. To promote the use of array in general programming for simplified version of the program.
+  3. To apply the file handling concepts in order to retrieve the player’s data files that contains the data of the players.
+  4. To use minimum graphics as far as possible to make the program execute fast but also user friendly side by side.
+  5. To use general concept of c language to develop a simple snakes and ladders game that as a whole entertains the user.
 
 ## Features
-* Compatible as multi-player game.
-* Facility to save the game.
-* Open the saved game using the password pre-defined by the user.
-* Use minimum graphics in snakes and ladders as far as possible avoiding complex codes.
+  1. Compatible as multi-player game.
+  2. Facility to save the game.
+  3. Open the saved game using the password pre-defined by the user.
+  4. Use minimum graphics in snakes and ladders as far as possible avoiding complex codes.
 
 ## Scope
-* Users preferring the classical games can switch to the game.
-* Beginners in computer programming can take hints via the mini project to boost up their programming techniques.
-* Can be brought in practice in training centers that offers basic programming courses.
-* Can be the best choice as stress relieving game in the busy life pattern of the people in present life.
-* Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
-* Can be milestone for the programmers trying to learn to build projects in C.
+  1. Users preferring the classical games can switch to the game.
+  2. Beginners in computer programming can take hints via the mini project to boost up their programming techniques.
+  3. Can be brought in practice in training centers that offers basic programming courses.
+  4. Can be the best choice as stress relieving game in the busy life pattern of the people in present life.
+  5. Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
+  6. Can be milestone for the programmers trying to learn to build projects in C.
 
 # Research
 ## Functions Used
@@ -93,46 +93,46 @@
 
   This function is used in the program to play the sound of the game. This function enables the programmer to embed the sound in their console based program. This function takes the file name to be played. The file to be played should be inwav format.
 
-# 4W's 1-H 
+# 4W's 1H 
 ## Why
-* To teach morality lesson for each and every person and which can attain salvation through doing good, whereas by doing evil one will be reborn as lower forms of life.
-* I'm making this for students to understand the concept of mathematics easily.
-* It can be used to play by anyone at any place for fun & entertainment purpose too.
+  1. To teach morality lesson for each and every person and which can attain salvation through doing good, whereas by doing evil one will be reborn as lower forms of life.
+  2. I'm making this for students to understand the concept of mathematics easily.
+  3. It can be used to play by anyone at any place for fun & entertainment purpose too.
 
 ## Where
-* This can be used in our daily lives to do good things & to think in possitive manner.
-* We can use it in the mathematical calculations & problem solving skills.
+  1. This can be used in our daily lives to do good things & to think in possitive manner.
+  2. We can use it in the mathematical calculations & problem solving skills.
 
 ## Who
-* It can be used by public even childern can also play this game.
-* Can be used as a entertainment purpose for stressed out daily working people.
+  1. It can be used by public even childern can also play this game.
+  2. Can be used as a entertainment purpose for stressed out daily working people.
 
 ## When
-* One can play this when got stressed out and want to have fun.
-* The project can be used when the children & people are bored with their daily works and need entertainment. 
+  1. One can play this when got stressed out and want to have fun.
+  2. The project can be used when the children & people are bored with their daily works and need entertainment. 
 
 ## How
-* By playing diligently one can find their desired output as winning the game.
-* It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
+  1. By playing diligently one can find their desired output as winning the game.
+  2. It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
 
 # SWOT Analysis
 ## Strengths
-* Allows students to understand the concept of mathematics easily.
-* It can be exposed to the operations of addition and substraction indirectly.
-* It is also a suitable activity for leisure time.
-* This is to promote social skills & interaction among the players.
+  1. Allows students to understand the concept of mathematics easily.
+  2. It can be exposed to the operations of addition and substraction indirectly.
+  3. It is also a suitable activity for leisure time.
+  4. This is to promote social skills & interaction among the players.
   
 ## Weakness
-* One of the weaknesses of this game is it takes much time.
+  1. One of the weaknesses of this game is it takes much time.
   
 ## Opportunities
-* To learn about the life, which is not means to be a one-sided affair. You will face both the good & bad times.
-* Childern can understand these terms: forword, backword, before, after,next, which way.
+  1. To learn about the life, which is not means to be a one-sided affair. You will face both the good & bad times.
+  2. Childern can understand these terms: forword, backword, before, after,next, which way.
 
 ## Threats
-* Advanced featured games are already in the market.
+  1. Advanced featured games are already in the market.
 
-# High Level Requirements
+# High_Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
 | HLR_1 |  The user can switch to resume, new game, load game  | Implemented  |
@@ -144,7 +144,7 @@
 | HLR_7 |    The user needs unique tokens  | Implemented  |
 | HLR_8 |    The user needs layout, dice  | Implemented  |
 
-# Low Level Requirements
+# Low_Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
 | LLR_1 |  List of operations displayed | Implemented  |
