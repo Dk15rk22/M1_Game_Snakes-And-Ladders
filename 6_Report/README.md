@@ -11,7 +11,7 @@ The snakes and ladders game project comprises of multiple functions (scroll down
 the program in user friendly environment.
   
 ## Objectives
-1. To use different user defined function, to break a program into many simplified parts to deal with and to make it easier to understand the codes too.
+1. To use different user defined function, to break a program into many simplified parts to deal with and to make it easier to understand the codes.
 2. To promote the use of array in general programming for simplified version of the program.
 3. To apply the file handling concepts in order to retrieve the player’s data files that contains the data of the players.
 4. To use minimum graphics as far as possible to make the program execute fast but also user friendly side by side.
