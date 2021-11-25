@@ -1,11 +1,9 @@
-# Identifying Features
+# Identify Features
 
 ## Introduction
-
   In this project, a version of the Snakes and Ladders game program in C is developed which will perform snakes and ladders game winning or loosing depending on the input from the user. 
    
 ## About Game
-
   The game includes the facilities such as saving and loading the game. The saved games are password protected so that only the authorized user can load the previously saved game. The snakes and ladders game project comprises of multiple functions (scroll down to view the description for each) which can be dealt at ease. Attempt has been made to present the program in user friendly environment.
   
 ## Objectives
@@ -29,9 +27,8 @@
   * Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
   * Can be milestone for the programmers trying to learn to build projects in C.
 
-# State of Art / Research
+# Research
 ## Functions Used:
-
 **1. Main()**
 
   This function is the main function. This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function. It calls the respective function as user’s input. In this function user can use pre-defined short cut keys too.
@@ -136,7 +133,6 @@
   * Advanced featured games are already in the market.
 
 # High Level Requirements
-
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
 | HLR_1 |  The user can switch to resume, new game, load game  | Implemented  |
