@@ -1,6 +1,5 @@
 # Test Plan
-
-# High Level Test Plan
+## High Level Test Plan
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
 |---|---|---|---|---|---|
 | HLTP_1 | Main Operation | (Choice) | SUCCESS | SUCCESS | Requirement Based |
@@ -19,7 +18,7 @@
 | HLTP_12 | Password(char) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
 | HLTP_13 | Playfilesync(char) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
 
-# Low Level Test Plan
+## Low Level Test Plan
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
 |---|---|---|---|---|---|
 | LLTP_1 | Player_1 Calculation | 1 | Dice 1-6 | Dice 1-6 | Requirement Based |
