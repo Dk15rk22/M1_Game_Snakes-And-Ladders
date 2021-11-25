@@ -190,6 +190,9 @@
 ## 9. Viperandladder ():
 ![image](https://user-images.githubusercontent.com/83995244/143038138-6e956d2e-7ca8-4a2b-87db-fec0ca463f31.png)
 
+## Structural Diagrams
+![image](https://user-images.githubusercontent.com/83995244/143038628-978e5b0a-ecfa-4d68-9bb2-80359c698a30.png)
+
 ## Folder Structure
 | Folder   |      Description     |
 |----------|:-------------:|
