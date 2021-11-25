@@ -28,7 +28,7 @@
   * Can be milestone for the programmers trying to learn to build projects in C.
 
 # Research
-## Functions Used:
+## Functions Used
 ### 1. Main()
 
   This function is the main function. This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function. It calls the respective function as user’s input. In this function user can use pre-defined short cut keys too.
@@ -95,50 +95,41 @@
 
 # 4W's 1-H 
 ## Why:
-
   * To teach morality lesson for each and every person and which can attain salvation through doing good, whereas by doing evil one will be reborn as lower forms of life.
   * I’m making this for students to understand the concept of mathematics easily .
   * It can be used to play by anyone at any place for fun & entertainment purpose too.
 
 ## Where:
-
   * This can be used in our daily lives to do good things & to think in possitive manner.
   * We can use it in the mathematical calculations & problem solving skills.
 
 ## Who:
-
   * It can be used by public even childern can also play this game.
   * Can be used as a entertainment purpose for stressed out daily working people.
 
 ## When:
-
   * One can play this when got stressed out and want to have fun.
   * The project can be used when the children & people are bored with their daily works and need entertainment. 
 
 ## How:
-
   * By playing diligently one can find their desired output as winning the game.
   * It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
 
 # SWOT Analysis
 ## Strengths:
-
   * Allows students to understand the concept of mathematics easily.
   * It can be exposed to the operations of addition and substraction indirectly.
   * It is also a suitable activity for leisure time.
   * This is to promote social skills & interaction among the players.
   
 ## Weakness:
-
   * One of the weaknesses of this game is it takes much time.
   
 ## Opportunities:
-
   * To learn about the life, which is not means to be a one-sided affair. You will face both the good & bad times.
   * Childern can understand these terms: forword, backword, before, after,next, which way.
 
 ## Threats:
-
   * Advanced featured games are already in the market.
 
 # High Level Requirements
