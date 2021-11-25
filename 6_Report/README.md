@@ -1,13 +1,9 @@
 # REQUIREMENTS
-
 # Identifying Features
-
 ## Introduction
-
   In this project, a version of the Snakes and Ladders game program in C is developed which will perform snakes and ladders game winning or loosing depending on the input from the user. 
    
 ## About Game
-
   The game includes the facilities such as saving and loading the game. The saved games are password protected so that only the authorized user can load the previously saved game. The snakes and ladders game project comprises of multiple functions (scroll down to view the description for each) which can be dealt at ease. Attempt has been made to present the program in user friendly environment.
   
 ## Objectives
@@ -31,114 +27,113 @@
   * Simplicity and efficient is main fact that we get using the c language, so user can execute snakes and ladders in each and every computer almost.
   * Can be milestone for the programmers trying to learn to build projects in C.
 
-# State of Art / Research
-## Functions Used:
+# Research
+## Functions Used
 
-**1. Main()**
+### 1. Main()
 
   This function is the main function. This function contains the control of the whole game. User can switch to resume, new game, load game, save game, tutorial and exit from this function. It calls the respective function as user’s input. In this function user can use pre-defined short cut keys too.
 
-**2. Save game()**
+### 2. Save game()
 
   This part of the program is called from the main function when user wishes to save the game. The player can provide his own password to protect the game from other users. In snakes and ladders, this function calls the password function to get the password from the user. After getting the password the name of game, the name of players, and the value of the player is stored in a file named save.dat that can be reopened further.
 
-**3. Load game()**
+### 3. Load game()
 
   This function enables the users to load the initially saved snakes and ladders game. In order to prevent the unauthorized use of the loaded game, there is a password system that user has to go through before he opens or loads the saved game. In order to get game loaded user has to input the game name and the password per defined or per entered. Password functions is called for password input and for matching of the password and the game name data is read from the data file save.dat.
 
-**4. Tutorial()**
+### 4. Tutorial()
 
   This function in the program prints the tutorial of the snakes and ladders i.e. the help of the game, color indication and so on. The function uses a data file that contains the tutorial of the game. After printing the tutorial the control is transferred to main function.
 
-**5. Firstscr()**
+### 5. Firstscr()
 
   This function generates the first screen appeared when the program is executed. This function includes some animations and the snakes and ladders title. This function gets control until unless any key of the key board is hit. If any key of the key board is hit the control flows to main function.
 
-**6. Main game()**
+### 6. Main game()
 
   This is the function from where all the game is executed . From this function firstly the layout of the board is called. Then the vipers and the ladders are printed. Then the dice function is called and returned value is added to respective player’s position. Then after the viper and ladder function is called to check the viper and ladder position. Then after the players are displayed at the new position. At last eofgame function is called in this snakes and ladders if the player’s value equals to 100.
 
-**7. Layout()**
+### 7. Layout()
 
   In this function, the general layout of the board is drawn as like in classical game. This function does not get control for long. As soon as it get the control it prints the layout of the board and the control goes to the main game function.
 
-**8. Drawviperandladder()**
+### 8. Drawviperandladder()
 
   In this function, the vipers and ladders are drawn on the board. This function is called from the main game function of this viper buzz project. The viper are represented by the red color and the ladders are represented by the green color.
 
-**9. Dice()**
+### 9. Dice()
 
   This function is for the value of the dice as per user’s reaction. In snakes and ladders, his function returns an integer value if any key of the keyboard is hit. The value is returned to the main game function. In addition to the dice rolling, this function holds the screen and also responds to the escape key pressed. If escape key is pressed, it flows control to the main menu else the control flows to main menu.
 
-**10. Position()**
+### 10. Position()
 
   This is the function locating the player in the board of snakes and ladders. This function prints a white space in the old position and it prints the representation character to the new location as the value of the player. The main aim of this function is to prints the player’s indicator in the respective position.
 
-**11. Viperandladder()**
+### 11. Viperandladder()
 
   In this function the player’s position is compared with the initial position of the ladder and respective value of the player is changed only if the initial value matches. In addition to that this function checks the hit condition also. The control flows to the main game after execution of snakes and ladders.
 
-**12. Locate(int , int)**
+### 12. Locate(int , int)
 
   This function is used in our program to set the cursor position on the different location of the screen. It takes two arguments and sets the cursor position according to the arguments.
 
-**13. Draw()**
+### 13. Draw()
 
   In this snakes and ladders game project, draw() function helps to print the dice box and the data of the player on the box. It is called each time loop executes so that it overlaps the initial mesh created. This function displays the player’s current position, player’s name and turn.
 
-**14. Eofgame(char , int)**
+### 14. Eofgame(char , int)
 
   This is the final screen after any one of the player reaches to the position of 100. The main loop of the main game function in this snakes and ladders gets break and this function is called. In this function two arguments are passed i.e. firstly the player’s name and the player’s code. This function has the control until unless a key is pressed.
 
-**15. Password(char)**
+### 15. Password(char)
 
   In this function, an address is passed as argument and entered password is returned for the pointer. In this snakes and ladders game project, the character that user input is take and the asterisks are printed in place of the character to avoid the identification. This function is called from save game and the load game.
 
-**16. Playfilesync(char)**
+### 16. Playfilesync(char)
 
   This function is used in the program to play the sound of the game. This function enables the programmer to embed the sound in their console based program. This function takes the file name to be played. The file to be played should be inwav format.
 
 # 4W's 1-H 
-**Why:**
+## Why:
   * To teach morality lesson for each and every person and which can attain salvation through doing good, whereas by doing evil one will be reborn as lower forms of life.
   * I’m making this for students to understand the concept of mathematics easily .
   * It can be used to play by anyone at any place for fun & entertainment purpose too.
 
-**Where:**
+## Where:
   * This can be used in our daily lives to do good things & to think in possitive manner.
   * We can use it in the mathematical calculations & problem solving skills.
 
-**Who:**
+## Who:
   * It can be used by public even childern can also play this game.
   * Can be used as a entertainment purpose for stressed out daily working people.
 
-**When:**
+## When:
   * One can play this when got stressed out and want to have fun.
   * The project can be used when the children & people are bored with their daily works and need entertainment. 
 
-**How:**
+## How:
   * By playing diligently one can find their desired output as winning the game.
   * It will be helpful in performing various stategical analysis like which path is safer. This will give improve our mathematical knowledge.
 
 # SWOT Analysis
-**Strengths:**
+## Strengths:
   * Allows students to understand the concept of mathematics easily.
   * It can be exposed to the operations of addition and substraction indirectly.
   * It is also a suitable activity for leisure time.
   * This is to promote social skills & interaction among the players.
   
-**Weakness:**
+## Weakness:
   * One of the weaknesses of this game is it takes much time.
   
-**Opportunities:**
+## Opportunities:
   * To learn about the life, which is not means to be a one-sided affair. You will face both the good & bad times.
   * Childern can understand these terms: forword, backword, before, after,next, which way.
 
-**Threats:**
+## Threats:
   * Advanced featured games are already in the market.
 
 # High Level Requirements
-
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
 | HLR_1 |  The user can switch to resume, new game, load game  | Implemented  |
@@ -158,39 +153,37 @@
 | LLR_3 |  Exit the game  | Implemented  |
 
 # Implementation
-
 # Behavior Diagrams
-
-## 1.main():
+## 1.main()
 ![image](https://user-images.githubusercontent.com/83995244/143037446-74775d14-1547-47ca-b4b2-bbecb9f06bac.png)
 
-## 2. main game():
+## 2. main game()
 ![image](https://user-images.githubusercontent.com/83995244/143036688-ba36f6f1-5c7b-471f-a3fe-af86ffcb3378.png)
 
-## 3. New game():
+## 3. New game()
 ![image](https://user-images.githubusercontent.com/83995244/143036900-6a7c4adf-df3b-413a-b47a-3b782a12b9f4.png)
 
-## 4. Save game():
+## 4. Save game()
 ![image](https://user-images.githubusercontent.com/83995244/143037010-29a29051-9a7d-47e8-a99a-13cfc6c00def.png)
 
-## 5. Load game ():
+## 5. Load game ()
 ![image](https://user-images.githubusercontent.com/83995244/143037131-b7c4e5d4-023c-4d2f-840f-f074d6f5b5c4.png)
 
-## 6. Layout ():
+## 6. Layout ()
 ![image](https://user-images.githubusercontent.com/83995244/143037221-e0f958f2-b2c1-4b05-824d-eb0f5ddc1c64.png)
 
-## 7. Drawviperandladder ():
+## 7. Drawviperandladder ()
 ![image](https://user-images.githubusercontent.com/83995244/143037565-4c46f30c-fff6-4621-bafb-bf74fbd6ba81.png)
 
 ![image](https://user-images.githubusercontent.com/83995244/143037716-2a27854d-a7eb-41b4-b170-e5a3208260b9.png)
 
-## 8. Position ():
+## 8. Position ()
 ![image](https://user-images.githubusercontent.com/83995244/143038023-8fead603-8de9-4ee9-ad02-83f62ca1182a.png)
 
-## 9. Viperandladder ():
+## 9. Viperandladder ()
 ![image](https://user-images.githubusercontent.com/83995244/143038138-6e956d2e-7ca8-4a2b-87db-fec0ca463f31.png)
 
-## Structural Diagrams
+# Structural Diagrams
 ![image](https://user-images.githubusercontent.com/83995244/143038628-978e5b0a-ecfa-4d68-9bb2-80359c698a30.png)
 
 ## Folder Structure
@@ -202,8 +195,7 @@
 | test | All source code and data for testing purposes |
 
 # Test Plan
-
-# High Level Test Plan
+## High Level Test Plan
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
 |---|---|---|---|---|---|
 | HLTP_1 | Main Operation | (Choice) | SUCCESS | SUCCESS | Requirement Based |
@@ -222,7 +214,7 @@
 | HLTP_12 | Password(char) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
 | HLTP_13 | Playfilesync(char) Operation | Choice | SUCCESS | SUCCESS | Requirement Based |
 
-# Low Level Test Plan
+## Low Level Test Plan
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
 |---|---|---|---|---|---|
 | LLTP_1 | Player_1 Calculation | 1 | Dice 1-6 | Dice 1-6 | Requirement Based |
@@ -230,4 +222,3 @@
 | LLTP_3 | Eofgame Calculation | 3 | Exits the game | Exits the game | Requirement Based |
 | LLTP_4 | Invalid Entries | 4 | Incorrect choice.Try Again | Incorrect choice.Try Again | Requirement Based |
 | LLTP_5 | Invalid Entries | 9 | Incorrect choice.Try Again | Incorrect choice.Try Again | Requirement Based |
-
