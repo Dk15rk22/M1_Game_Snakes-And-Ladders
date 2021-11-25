@@ -14,3 +14,24 @@
 | 4_TestPlan |  Documents with test plans |
 | 5_Images |    All the images of this project  | 
 | 6_Report |    Documentation of whole project  |      
+
+# Contributors List and Summary
+| PS No. | Name | Features | Issuess Raised | Issuess Resolved | No Test Cases | Test Case Pass |
+|---|---|---|---|---|---|---|
+| `40020518` | Deepak kumar L | F1, F2, F3, F4, F5, F6, F7, F8 | 1 | 1 | 8 | 8 |
+
+| No | Feature |
+|---|---|
+| F1 |  Calculation |
+| F2 |  Calculation |
+| F3 |  Calculation |
+| F4 |  Calculation |
+| F5 |  Calculation |
+| F6 |  Calculation |
+| F7 |  Calculation |
+| F8 |  Calculation |
+
+# Challenges Faced and How Was It Overcome
+| No | Challenge | Solution |
+|---|---|---|
+| 1  | Make file issue | renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe |
