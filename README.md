@@ -18,18 +18,14 @@
 # Contributors List and Summary
 | PS No. | Name | Features | Issuess Raised | Issuess Resolved | No Test Cases | Test Case Pass |
 |---|---|---|---|---|---|---|
-| `40020518` | Deepak kumar L | F1, F2, F3, F4, F5, F6, F7, F8 | 1 | 1 | 8 | 8 |
+| `40020518` | Deepak kumar L | F1, F2, F3, F4, | 1 | 1 | 8 | 8 |
 
 | No | Feature |
 |---|---|
-| F1 |  Calculation |
-| F2 |  Calculation |
-| F3 |  Calculation |
-| F4 |  Calculation |
-| F5 |  Calculation |
-| F6 |  Calculation |
-| F7 |  Calculation |
-| F8 |  Calculation |
+| F1 |  Compatible as multi-player game |
+| F2 |  Facility to save the game |
+| F3 |  Open the saved game using the password pre-defined by the user |
+| F4 |  Use minimum graphics in snakes and ladders as far as possible avoiding complex codes |
 
 # Challenges Faced and How Was It Overcome
 | No | Challenge | Solution |
